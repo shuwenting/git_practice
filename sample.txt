@@ -1,4 +1,6 @@
 time:
 2022 02 14
+use:
+rebase and merge
 target:
 practice git
