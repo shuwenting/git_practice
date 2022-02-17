@@ -4,5 +4,9 @@ use:
 rebase and merge
 target:
 practice git
+HEAD
 change：
 issue1
+new:
+0216
+ issue2
